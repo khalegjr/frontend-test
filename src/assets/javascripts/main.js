@@ -1,4 +1,5 @@
 const path = require('path');
+const style = require('../stylesheets/style.css');
 
 // Lê o arquivo JSON e separa o array de dados
 fileJson = new XMLHttpRequest();
