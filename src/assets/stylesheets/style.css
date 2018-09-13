@@ -82,17 +82,7 @@ body {
 }
 
 .wrapper > div {
-    border: 2px solid #ffa94d;
     border-radius: 5px;
-    background-color: #ffd8a8;
-    padding: 1em;
-    color: #d9480f;
-}
-
-.nested {
-    border: 2px solid #ffec99;
-    border-radius: 5px;
-    background-color: #fff9db;
     padding: 1em;
 }
 
@@ -118,8 +108,8 @@ body {
     font-size: 12px;
     padding: 8px 12px;
     position: relative;
-    top: -.3rem;
-    left: 5rem;
+    bottom: -4rem;
+    left: -3rem;
     z-index: 1;
 }
 
